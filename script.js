@@ -48,5 +48,6 @@ console.log(reindeers);
 console.log(Math.sqrt(2));
 
 // 9
-var newRandomNumber = Math.floor(Math.random() * 16 + 7);
+var newRandomNumber = Math.floor(Math.random() * 17 + 7);
+// var newRandomNumber = Math.floor(Math.random() * (23 - 7 + 1))
 console.log(newRandomNumber);
